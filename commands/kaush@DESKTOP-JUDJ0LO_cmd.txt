@@ -1,0 +1,1 @@
+it doestnt gives an output , give the list as the output
