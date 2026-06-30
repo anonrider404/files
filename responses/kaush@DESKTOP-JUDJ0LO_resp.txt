@@ -1,7 +1,0 @@
-api_keys.enc
-client.exe
-client_id.txt
-client_key.bin
-commands.txt.enc
-output.txt.enc
-script.ps1.enc
