@@ -1,9 +1,0 @@
-api_keys.enc
-client_id.txt
-client_key.bin
-commands.txt.enc
-Desktop
-horror.html
-output.txt.enc
-script.ps1.enc
-setupt_installer.exe
