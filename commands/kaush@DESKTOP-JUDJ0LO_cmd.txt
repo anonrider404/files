@@ -1,0 +1,1 @@
+check the startup directory of the current user and list files
