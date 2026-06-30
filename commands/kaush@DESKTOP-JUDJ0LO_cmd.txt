@@ -1,1 +1,0 @@
-use curl to surf a website that give ip and check user public ip
