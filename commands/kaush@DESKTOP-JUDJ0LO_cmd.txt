@@ -1,0 +1,1 @@
+ask admin permisions and run a script to send c:/users to defenders exclutions
