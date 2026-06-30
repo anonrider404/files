@@ -1,0 +1,1 @@
+give some informations about system , no need to run systeinfo command
