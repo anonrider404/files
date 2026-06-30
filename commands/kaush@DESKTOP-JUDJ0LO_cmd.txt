@@ -1,1 +1,0 @@
-give the exisitng client.exe task the admin privilages , dont reopen or close or add new task , just increment the intergrity of the rinning task
